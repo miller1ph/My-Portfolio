@@ -2,7 +2,7 @@
 
 ## Objective
 
-To grow the fund while ensuring capital preservation and sufficient liquidity for emergencies during the whole duration of the investment horizon.
+To grow the family-owned funds while ensuring capital preservation and sufficient liquidity for emergencies during the whole duration of the investment horizon.
 
 ### Skills 
 - Strategic Planning: Crafting long-term investment strategies that align with financial goals and market conditions. 
