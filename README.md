@@ -24,9 +24,12 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
      - Stakeholder Risk Profile: Conservative
      - Investment Horizon: 5-6 years
-     - Financial Goals: Grow the fund while ensuring a. Capital is preserved, b. Steady Income stream, c. Sufficiant liquidity for emergencies for the whole duration of the Investment Horizon.
-     
-     
+     - Financial Goals: Grow the fund while ensuring:
+  
+             - Capital is preserved
+             - Steady Income stream
+             - Sufficiant liquidity for emergencies for the whole duration of the Investment Horizon.
+    
 2. With reference to the above information and consultation with stakeholders, the following were discussed:
 
      - Asset Class Selection
