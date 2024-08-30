@@ -28,7 +28,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
   
              - Capital is preserved
              - Steady Income stream
-             - Sufficiant liquidity for emergencies for the whole duration of the Investment Horizon.
+             - Sufficient liquidity for emergencies for the whole duration of the Investment Horizon.
     
 2. With reference to the above information and consultation with stakeholders, the following were discussed:
 
