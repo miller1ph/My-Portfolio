@@ -15,7 +15,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 ### Tools Used
 - Bloomberg News, Morningstar and Marketwatch for extensive coverage of both equities and fixed income instruments.
 - Microsoft Excel for custom modeling, scenario analysis and portfolio optimization.
-- Schwab Thinkorswim for electronic trading capabilities, market access, and execution management.
+- Schwab Thinkorswim platform for electronic trading capabilities, market access, and execution management.
 - Bankrate for comparing CD rates across different banks and credit unions.
 - TreasuryDirect for information on U.S. Treasury securities.
 
