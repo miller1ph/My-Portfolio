@@ -22,16 +22,20 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 ## Steps
 1. Identify, Assess, and Evaluate Risk Profile, Investment Horizon, and overall Financial Goals / Objectives.
 
-     Stakeholder Risk Profile: Conservative
-     Investment Horizon: 5-6 years
-     Financial Goals: Grow the fund while ensuring a. Capital is preserved, b. Steady Income stream, c. Sufficiant liquidity for emergencies for the whole duration of the Investment Horizon.
+     - Stakeholder Risk Profile: Conservative
+     - Investment Horizon: 5-6 years
+     - Financial Goals: Grow the fund while ensuring a. Capital is preserved, b. Steady Income stream, c. Sufficiant liquidity for emergencies for the whole duration of the Investment Horizon.
+     
+     
+2. With reference to the above information and consultation with stakeholders, the following were discussed:
 
-2. With reference to the above information and consultation with stakeholders, the following points were decided:
+     - Asset Class Selection
+       - Asset classes initially considered for investment include Equities, Fixed Income (Bonds), Cash and Cash Equivalents, Real Estate, Commodities, and Cryptocurrencies. However, after aligning the stakeholder's risk profile, investment horizon, and overall financial goals, it was decided to focus the investments on Cash and Cash Equivalent Instruments such as CDs, Savings Account, Money Market Funds and T-bills. The rationale for this decision are as follows (these also align with the stakeholder's financial goals/objectives):
+         
+            - Cash and Cash Equivalents are the most liquid of all asset classes.
+            - These assets provide predictable and steady income streams and are not subject to market fluctuation.
+            - The current interest rates for these instruments are at MULTI-YEAR HIGHS. Current interest levels are last seen during the early 2000s.
+            - These financial assets are insured up to $250,000 per depositor, per insured bank (FDIC) / credit union (NCUA), for each account ownership category.
+         
+         
 
-     Asset class selection and initial allocation
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
