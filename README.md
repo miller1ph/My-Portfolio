@@ -20,7 +20,15 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 - TreasuryDirect for information on U.S. Treasury securities.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+1. Identify, Assess, and Evaluate Risk Profile, Investment Horizon, and overall Financial Goals / Objectives.
+
+     Stakeholder Risk Profile: Conservative
+     Investment Horizon: 5-6 years
+     Financial Goals: Grow the fund while ensuring a. Capital is preserved, b. Steady Income stream, c. Sufficiant liquidity for emergencies for the whole duration of the Investment Horizon.
+
+2. With reference to the above information and consultation with stakeholders, the following points were decided:
+
+     Asset class selection and initial allocation
 
 Every screenshot should have some text explaining what the screenshot is about.
 
