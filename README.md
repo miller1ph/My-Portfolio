@@ -35,10 +35,10 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
      - Asset Class Selection
        - Asset classes initially considered for investment include Equities, Fixed Income (Bonds), Cash and Cash Equivalents, Real Estate, Commodities, and Cryptocurrencies. However, after aligning the stakeholder's risk profile, investment horizon, and overall financial goals, it was decided to focus the investments on Cash and Cash Equivalent Instruments such as CDs, Savings Account, Money Market Funds and T-bills. The rationale for this decision are as follows (these also align with the stakeholder's financial goals/objectives):
          
-            - Cash and Cash Equivalents are the most liquid of all asset classes.
-            - These assets provide predictable and steady income streams and are not subject to market fluctuation.
-            - The current interest rates for these instruments are at MULTI-YEAR HIGHS. Current interest levels are last seen during the early 2000s.
-            - These financial assets are insured up to $250,000 per depositor, per insured bank (FDIC) / credit union (NCUA), for each account ownership category.
+                 - Cash and Cash Equivalents are the most liquid of all asset classes.
+                 - These assets provide predictable and steady income streams and are not subject to market fluctuation.
+                 - The current interest rates for these instruments are at MULTI-YEAR HIGHS. Current interest levels are last seen during the early 2000s.
+                 - These financial assets are insured up to $250,000 per depositor, per insured bank (FDIC) / credit union (NCUA), for each account ownership category.
 
 
 
