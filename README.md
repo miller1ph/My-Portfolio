@@ -39,6 +39,12 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
             - These assets provide predictable and steady income streams and are not subject to market fluctuation.
             - The current interest rates for these instruments are at MULTI-YEAR HIGHS. Current interest levels are last seen during the early 2000s.
             - These financial assets are insured up to $250,000 per depositor, per insured bank (FDIC) / credit union (NCUA), for each account ownership category.
-         
+
+         # My Financial Asset Allocation
+
+Check out the interactive pie chart below to see the breakdown of my financial assets:
+
+[Interactive Pie Chart](interactive_pie_chart.html)
+
          
 
