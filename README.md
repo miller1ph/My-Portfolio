@@ -61,19 +61,21 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 3. Risk Management
 
    - In order to align with the stakeholder's overall financial goals, 100% of the capital were invested in LOW-RISK investments. Furthermore, there are sufficient funds which can be easily withdrawn if needed.
-   - All investments are insured by FDIC (banks) or NCUA (credit union). All allocations were computed to ensure that 100% of the funds will be covered by $250,000 per depositor per insured bank/credit union rule.
+   - All investments are insured by FDIC (banks) or NCUA (credit union). All allocations were computed to ensure that 100% of the funds will be covered by $250,000 per depositor per insured bank/credit union guidelines by FDIC/NCUA.
   
 4. Performance Monitoring and Evaluation
 
-   - Below is the detailed performance of each Asset Class from May 15, 2024. Note that performance is measured every end of the month:
+   - Below is the detailed performance of each Account Type from May 15, 2024. Note that performance is measured every end of the month:
   
-     ![image](https://github.com/user-attachments/assets/2ea1acb0-2d3b-4894-bd7f-86fefe8612ef)
+    ![image](https://github.com/user-attachments/assets/d5e61aab-1fd2-4fbb-905e-60164f5ae17a)
+
 
      For BENCHMARK comparison, I will be using the ISHARES CORE US AGGREGATE BOND ETF (Ticker: AGG). Below is the overall performance of my portfolio and its relative strength (weakness) against the benchmark:
 
-     ![image](https://github.com/user-attachments/assets/d3595c1b-2d5a-40c2-af91-e6fb6c90d278)
+     ![image](https://github.com/user-attachments/assets/7363b974-87ed-4839-8959-ce947e3dbca3)
 
-     ![image](https://github.com/user-attachments/assets/6f7c0a8d-20d7-44e2-88fb-98ed107eb7f5)
+     ![image](https://github.com/user-attachments/assets/89990a63-8137-4e97-a620-25bdb87f6448)
+
 
 
 
