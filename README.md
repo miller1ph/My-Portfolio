@@ -65,21 +65,22 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
   
 4. Performance Monitoring and Evaluation
 
-   - Below is the detailed performance of each Asset Class:
+   - Below is the detailed performance of each Asset Class from May 15, 2024. Note that performance is measured every end of the month:
+  
+     ![image](https://github.com/user-attachments/assets/2ea1acb0-2d3b-4894-bd7f-86fefe8612ef)
+
+     For BENCHMARK comparison, I will be using the ISHARES CORE US AGGREGATE BOND ETF (Ticker: AGG). Below is the overall performance of my portfolio and its relative strength (weakness) against the benchmark:
+
+     ![image](https://github.com/user-attachments/assets/d3595c1b-2d5a-40c2-af91-e6fb6c90d278)
+
+     ![image](https://github.com/user-attachments/assets/6f7c0a8d-20d7-44e2-88fb-98ed107eb7f5)
+
+
+
      
-     - Bank CDs
-       
-       ![image](https://github.com/user-attachments/assets/97bfdf7e-5437-4945-86cb-ab58b6f6875f)
- ![image](https://github.com/user-attachments/assets/c39aa15a-b2ca-4370-a864-20ee8a8e50bb)
 
+   
 
-      - Brokered CDs
-    
-        ![image](https://github.com/user-attachments/assets/9a272224-865a-4f0c-9114-42f1de04ebfb)
-     ![image](https://github.com/user-attachments/assets/689afbe3-b6fe-4f11-965b-4494da07edaa)
-
-
-        
 
        
        
