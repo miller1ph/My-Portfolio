@@ -71,7 +71,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
     ![image](https://github.com/user-attachments/assets/d5e61aab-1fd2-4fbb-905e-60164f5ae17a)
 
 
-     For BENCHMARK comparison, I will be using the ISHARES CORE US AGGREGATE BOND ETF (Ticker: AGG). Below is the overall performance of my portfolio and its relative strength (weakness) against the benchmark:
+     Since the majority of my holdings are in fixed-income instruments, I will be using the ISHARES CORE US AGGREGATE BOND ETF (Ticker: AGG). Below is the overall performance of my portfolio and its relative strength (weakness) against the benchmark:
 
      ![image](https://github.com/user-attachments/assets/7363b974-87ed-4839-8959-ce947e3dbca3)
 
