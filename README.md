@@ -73,7 +73,16 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
  ![image](https://github.com/user-attachments/assets/c39aa15a-b2ca-4370-a864-20ee8a8e50bb)
 
 
+      - Brokered CDs
+    
+        ![image](https://github.com/user-attachments/assets/9a272224-865a-4f0c-9114-42f1de04ebfb)
+     ![image](https://github.com/user-attachments/assets/689afbe3-b6fe-4f11-965b-4494da07edaa)
 
+
+        
+
+       
+       
 
    
 
