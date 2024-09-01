@@ -78,7 +78,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
     ![image](https://github.com/user-attachments/assets/a176fc21-56ee-4791-96c0-450d69691850)
 
 
-## CONSOLIDATION OF ACCOUNTS & AUTO-MONITORING ONLINE
+## CONSOLIDATION OF ACCOUNTS & TRACKING OF INVESTMENTS ONLINE
 
    - I use [Personalcapital.com](https://empowerreferral.link/miller1ph) to track investments and overall net worth online. Below is the screenshot of my portfolio as of August 31, 2024:
 
