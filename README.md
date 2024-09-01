@@ -17,6 +17,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 - Microsoft Excel for custom modeling, scenario analysis and portfolio optimization.
 - Schwab Thinkorswim platform for electronic trading capabilities, market access, and execution management.
 - Bankrate for comparing CD rates across different banks and credit unions.
+- Personalcapital.com for consolidating accounts online and automated monitoring.
 - TreasuryDirect for information on U.S. Treasury securities.
 
 ## Steps
@@ -77,6 +78,11 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
     ![image](https://github.com/user-attachments/assets/a176fc21-56ee-4791-96c0-450d69691850)
 
 
+## CONSOLIDATION OF ACCOUNTS & AUTO-MONITORING ONLINE
+
+   - I use [Personalcapital.com](https://empowerreferral.link/miller1ph) to track investments and overall net worth online. Below is the screenshot of my portfolio as of August 31, 2024:
+
+     ![image](https://github.com/user-attachments/assets/8bc0aa13-0228-41da-b5cc-4caab7197c6a)
 
 
 
