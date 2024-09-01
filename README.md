@@ -74,7 +74,9 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
      ![image](https://github.com/user-attachments/assets/7363b974-87ed-4839-8959-ce947e3dbca3)
 
-     ![image](https://github.com/user-attachments/assets/89990a63-8137-4e97-a620-25bdb87f6448)
+    ![image](https://github.com/user-attachments/assets/a176fc21-56ee-4791-96c0-450d69691850)
+
+
 
 
 
