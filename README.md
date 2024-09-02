@@ -80,7 +80,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
 ## CONSOLIDATION OF ACCOUNTS & TRACKING OF INVESTMENTS ONLINE
 
-   - For consolidation of accounts and automated tracking of investments in a single platform, I use [Personalcapital.com](https://empowerreferral.link/miller1ph). Below is the screenshot of my portfolio as of August 31, 2024:
+   - For consolidation of accounts and automated tracking of investments in a single platform, I use [Personalcapital.com](https://empowerreferral.link/miller1ph).  Below is the screenshot of my portfolio as of August 31, 2024:
 
      ![image](https://github.com/user-attachments/assets/8bc0aa13-0228-41da-b5cc-4caab7197c6a)
 
