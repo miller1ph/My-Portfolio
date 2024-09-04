@@ -77,6 +77,17 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
     ![image](https://github.com/user-attachments/assets/a176fc21-56ee-4791-96c0-450d69691850)
 
+5. Strategic Adjustment
+   
+   - As shown on Fig. 1, the initial allocation on Cash was at 13.81%.  This would provide some flexibility whenever more attractive rates will be available in the future. As we all know, interest rates have been largely dependent on Federal Reserve's decision to raise/cut it depending on their metrics.
+   
+   - Since 2022, rates have climbed steadily from 0.25% up to 5.25-5.5% (August 2023). The rates remained constant since then and the Fed signified their intention to cut rates this year. The timing of the cut will depend on how fast the core inflation goes back to their target of 2%.
+  
+   - Update: Federal Reserve, based on their released Minutes of the Meeting (August 21, 2024), has announced that it is time to cut interest rates.  The first cut is expected to take effect in September.
+  
+   - Due to the news of expected rate cut, I have discussed with the stakeholders that it would be wise to utilize the Cash in the portfolio to buy additional CDs in order to lock-in the current rates. This action has changed the total Cash allocation in the portfolio from 13.81% to 0.064% in August 2024.
+
+
 
 ## CONSOLIDATION OF ACCOUNTS & TRACKING OF INVESTMENTS ONLINE
 
