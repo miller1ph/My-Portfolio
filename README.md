@@ -68,16 +68,19 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
    - Below is the detailed performance of each Account Type from May 15, 2024. Note that performance is measured every end of the month:
   
-    ![image](https://github.com/user-attachments/assets/d5e61aab-1fd2-4fbb-905e-60164f5ae17a)
+   ![image](https://github.com/user-attachments/assets/cda5cb9c-4b47-4859-ae99-4a894c767b54)
+  
 
 
      Since the majority of my holdings are in fixed-income instruments, I will be using the ISHARES CORE US AGGREGATE BOND ETF (Ticker: AGG) as BENCHMARK for this activity. Below is the overall performance of my portfolio and its relative strength (weakness) against the benchmark:
 
-     ![image](https://github.com/user-attachments/assets/7363b974-87ed-4839-8959-ce947e3dbca3)
+    ![image](https://github.com/user-attachments/assets/65f5fcce-6199-4067-a310-981059b0cf6d)
+   
+    ![image](https://github.com/user-attachments/assets/b329bd85-2ed1-40a4-9c73-ceb45b35be7f)
 
-    ![image](https://github.com/user-attachments/assets/a176fc21-56ee-4791-96c0-450d69691850)
+  
 
-5. Strategic Adjustment
+6. Strategic Adjustment
    
    - As shown on Fig. 1, the initial allocation on Cash was at 13.81%.  This would provide some flexibility whenever more attractive rates will be available in the future. As we all know, interest rates have been largely dependent on Federal Reserve's decision to raise/cut it depending on their metrics.
    
@@ -91,9 +94,10 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
 ## CONSOLIDATION OF ACCOUNTS & TRACKING OF INVESTMENTS ONLINE
 
-   - For consolidation of accounts and automated tracking of investments in a single platform, I use [Personalcapital.com](https://empowerreferral.link/miller1ph).  Below is the screenshot of my portfolio as of August 31, 2024:
+   - For consolidation of accounts and automated tracking of investments in a single platform, I use [Personalcapital.com](https://empowerreferral.link/miller1ph).  Below is the screenshot of my portfolio as of October 4, 2024:
 
-     ![image](https://github.com/user-attachments/assets/8bc0aa13-0228-41da-b5cc-4caab7197c6a)
+     ![image](https://github.com/user-attachments/assets/32279646-dc72-4ac4-a2f3-fef994a0aabe)
+
 
 
 
