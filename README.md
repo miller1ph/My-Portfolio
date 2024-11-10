@@ -68,8 +68,7 @@ To grow the family-owned funds while ensuring capital preservation and sufficien
 
    - Below is the detailed performance of each Account Type from May 15, 2024. Note that performance is measured every end of the month:
   
-   ![image](https://github.com/user-attachments/assets/cda5cb9c-4b47-4859-ae99-4a894c767b54)
-  
+  ![image](https://github.com/user-attachments/assets/4e673ee0-a746-4c3e-891d-c68e3d4a43f3)
 
 
      Since the majority of my holdings are in fixed-income instruments, I will be using the ISHARES CORE US AGGREGATE BOND ETF (Ticker: AGG) as BENCHMARK for this activity. Below is the overall performance of my portfolio and its relative strength (weakness) against the benchmark:
